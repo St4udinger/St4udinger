@@ -67,6 +67,6 @@ _Aprendendo e construindo projetos aos poucos — um commit de cada vez._
 
 -->
 
-## 📫 Contato (opcional)
-- LinkedIn: **(coloque o link)**
-- E-mail: **(coloque um e-mail profissional)**
+## 📫 Contato
+- LinkedIn: **www.linkedin.com/in/emanuel-staudinger-067872286**
+- E-mail: **staudinger.emanuel@gmail.com**
