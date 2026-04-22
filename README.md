@@ -1,72 +1,87 @@
-<!-- Banner (opcional). Troque a URL por uma imagem sua hospedada (GitHub repo, Imgur, etc.) -->
-<!-- ![banner](https://SEU-LINK-AQUI/banner.png) -->
+<h1 align="center">St4udinger</h1>
 
-<div align="center">
+<p align="center">
+  <strong>Estudante de Desenvolvimento de Sistemas (integrado ao Ensino Médio) — 5º semestre</strong>
+  <br />
+  <em>Aprendendo e construindo projetos aos poucos — um commit de cada vez.</em>
+</p>
 
-# St4udinger
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&center=true&vCenter=true&width=850&lines=Status%3A+estudante;Foco%3A+POO%20%7C%20SQL%20%7C%20Java%20Web;Construindo+um+commit+de+cada+vez"
+    alt="Typing SVG"
+  />
+</p>
 
-**Estudante de Desenvolvimento de Sistemas (Integrado ao Ensino Médio) — 5º semestre**  
-_Aprendendo e construindo projetos aos poucos — um commit de cada vez._
+<p align="center">
+  <a href="https://github.com/St4udinger">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-St4udinger-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img alt="status" src="https://img.shields.io/badge/status-estudante-2563eb?style=for-the-badge" />
+  <img alt="foco" src="https://img.shields.io/badge/foco-POO%20%7C%20SQL%20%7C%20Java%20Web-111827?style=for-the-badge" />
+</p>
 
-![Status](https://img.shields.io/badge/status-estudante-informational)
-![Foco](https://img.shields.io/badge/foco-POO%20%7C%20SQL%20%7C%20Java%20Web-blue)
-![GitHub](https://img.shields.io/badge/github-St4udinger-black)
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=java,mysql,html&perline=10"
+    alt="Java, SQL (MySQL) e Java Web"
+  />
+</p>
 
-</div>
-
----
+<hr />
 
 ## ✨ Sobre mim
-- 🎓 Técnico em **Desenvolvimento de Sistemas** (integrado ao Ensino Médio) — **5º semestre**
+
+- 🎓 **Técnico em Desenvolvimento de Sistemas (integrado ao Ensino Médio)** — **5º semestre**
 - 🧠 Já estudei **POO**: classes, herança, polimorfismo, encapsulamento e classes abstratas
 - 🗄️ Estou aprendendo **Banco de Dados SQL** (modelagem e consultas básicas)
-- ☕ Estou aprendendo **Java Web integrado ao banco de dados** (conexão, consultas e operações CRUD)
-- 🛠️ Ferramentas: **MySQL Workbench** (já usei) e **HeidiSQL** (atualmente)
+- 🌐 Estou aprendendo **Java Web integrado ao banco de dados** (conexão, consultas e operações CRUD)
+- 🧰 Ferramentas: **MySQL Workbench** (já usei) e **HeidiSQL** (atualmente)
 
 ---
 
 ## 🧩 O que eu estou praticando agora
-- Estruturas de projeto e boas práticas em POO
-- CRUD e consultas SQL (SELECT, JOIN, GROUP BY, etc.)
+
+- Estruturas de projeto e boas práticas em **POO**
+- **CRUD** e consultas SQL (**SELECT, JOIN, GROUP BY**, etc.)
 - Modelagem básica (tabelas, chaves, relacionamentos)
 - Integração **Java Web + SQL** (persistência e acesso a dados)
 
 ---
 
 ## 🛠️ Ferramentas / Tecnologias (em aprendizado)
-**POO / Conceitos**
+
+### POO / Conceitos
 - Classes • Herança • Polimorfismo • Encapsulamento • Classe abstrata
 
-**Java**
-- Java (POO)
-- Java Web + Banco de Dados (CRUD / integração)
+### Java
+- **Java (POO)**
+- **Java Web + Banco de Dados** (CRUD / integração)
 
-**Banco de Dados**
-- SQL (básico)
-- MySQL • HeidiSQL • MySQL Workbench
+### Banco de Dados
+- **SQL (básico)**
+- **MySQL • HeidiSQL • MySQL Workbench**
 
 ---
 
 ## 📌 Repositórios / Estudos
+
 > Em breve vou fixar aqui meus repositórios de estudo, exercícios e protótipos.
 
-- 📚 **Estudos de POO em Java** (exercícios e exemplos)
-- 🗃️ **SQL na prática** (scripts e desafios)
-- ☕🌐 **Java Web + Banco** (projetos CRUD e integração)
-- 🧪 **Projetos pequenos** (protótipos para treinar)
+- 🧪 **Estudos de POO em Java** (exercícios e exemplos)
+- 🧾 **SQL na prática** (scripts e desafios)
+- 🌐 **Java Web + Banco** (projetos CRUD e integração)
+- 🧩 **Projetos pequenos** (protótipos para treinar)
 
 ---
 
-<!-- ## 📈 Estatísticas (opcional)
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=St4udinger&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=St4udinger&layout=compact&theme=transparent)
-
-</div>
-
--->
-
 ## 📫 Contato
-- LinkedIn: **www.linkedin.com/in/emanuel-staudinger-067872286**
-- E-mail: **staudinger.emanuel@gmail.com**
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/emanuel-st4udinger-067872286" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="44" />
+  </a>
+  <a href="mailto:staudinger.emanu el@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="E-mail" height="44" />
+  </a>
+</p>
